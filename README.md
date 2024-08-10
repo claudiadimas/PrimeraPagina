@@ -1,6 +1,6 @@
-# Clon de Google
+# Mi primer pagina
 
-El presente proyecto es un Clon de Google desarrollado para poner en práctica las habilidades obtenidad dentro del bootcamp de desarrollo frontend de Technolochicas PRO.
+El presente proyecto es Mi Primera Pagina desarrollado para poner en práctica las habilidades obtenidad dentro del bootcamp de desarrollo frontend de Technolochicas PRO.
 Fue desarrollado con HTML.
 
 
